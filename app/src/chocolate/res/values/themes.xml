@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Theming_with_flavors" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#B9F6CA</item>
+        <item name="colorSecondary">#713600</item>
+    </style>
+</resources>
