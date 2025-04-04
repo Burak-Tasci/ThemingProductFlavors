@@ -10,7 +10,7 @@ class NetworkServiceImpl: NetworkService {
 
     override fun request(): String {
         return """
-            request sent to ${BuildConfig.BASE_URL}
+            request sent to ${BuildConfig.BASE_URL} at ${System.currentTimeMillis()}
         """.trimIndent()
     }
 
